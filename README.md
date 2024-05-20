@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Shah Alam</h1>
 <h3 align="center">I am a professional Web developer. I have been working since 2020.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=thealamdev&label=Profile%20views&color=0e75b6&style=flat" alt="thealamdev" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thealamdev&label=Profile%20views&color=0e75b6&style=flat" alt="thealamdev" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
