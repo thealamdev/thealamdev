@@ -1,7 +1,7 @@
 ![Header](https://media.licdn.com/dms/image/D5616AQEBVlKBPOH-Ug/profile-displaybackgroundimage-shrink_350_1400/0/1686434402957?e=1720656000&v=beta&t=FsMZKXlCA6CBOXOgpL8JIO5dAKhXD4ZV3XACeteNeBQ)
 
 <h1 align="center">Hi 👋, I'm Shah Alam</h1>
-<h3 align="center">I am a professional Web developer. I have been working since 2020.</h3>
+<h3 align="center">I am a professional Software Developer. I have been working since 2021.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thealamdev&label=Profile%20views&color=0e75b6&style=flat" alt="thealamdev" />
