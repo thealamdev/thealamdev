@@ -66,6 +66,4 @@
 </p>
 
 
-<p align="center">
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thealamdev&theme=dark)
-</p> fixed this
+![GitHub Streak](https://streak-stats.demolab.com/?user=thealamdev&theme=dark)
