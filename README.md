@@ -57,13 +57,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealamdev&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-</p>
+<h3 align="center">📊 GitHub Statistics</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thealamdev&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealamdev&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thealamdev&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=thealamdev&theme=dark)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thealamdev&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
